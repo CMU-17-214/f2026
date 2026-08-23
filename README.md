@@ -330,7 +330,7 @@ TAs:
 
 Evaluation will be based on the following components:
 
-- 50% for assignments. Six assignments spanning the course. Each assignment's grade includes its checkpoint and a short spoken defense of one design decision, in office hours (graded for completeness; think of it as interview practice).
+- 50% for assignments. Six assignments spanning the course. Each assignment's grade includes a short spoken defense of one design decision, in office hours (graded for completeness; think of it as interview practice). Assignments 2 through 6 also include a checkpoint.
 - 30% for exams. Two midterms (7.5% each) and a final exam (15%).
 - 10% for labs. 13 weekly labs, graded for completeness at recitation. Your two lowest lab scores are dropped.
 - 10% for in-class quizzes and participation. You can expect short quizzes during lecture, graded for completeness (not correctness). Your two lowest quiz scores are dropped.

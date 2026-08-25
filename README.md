@@ -51,7 +51,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Fri, Aug 28</td>
-      <td><span class="rec">Lab 1</span> Course Infrastructure and Your First Supervised Task</td>
+      <td><span class="rec">Lab 1</span> <a href="https://github.com/CMU-17-214/f2026/blob/main/labs/lab01.md" target="_blank" rel="noopener">Course Infrastructure and Your First Supervised Task</a></td>
     </tr>
   </tbody>
   <tbody>
@@ -75,7 +75,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Mon, Sep 7</td>
-      <td><span class="assignment"><span class="hw">Assignment 1 due</span> Bad Slack</span></td>
+      <td><span class="assignment"><span class="hw">Assignment 1 due</span> <a href="https://github.com/CMU-17-214/f2026/blob/main/assignments/hw1.md" target="_blank" rel="noopener">Bad Slack</a></span></td>
     </tr>
     <tr>
       <td>Wed, Sep 9</td>

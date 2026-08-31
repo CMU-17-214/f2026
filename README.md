@@ -57,7 +57,7 @@ The schedule below reflects our current plans, but is subject to change.
   <tbody>
     <tr>
       <td>Mon, Aug 31</td>
-      <td>Testing and Testability</td>
+      <td><a href="https://github.com/CMU-17-214/f2026/blob/main/slides/03-testing-and-testability.pdf" target="_blank" rel="noopener">Testing and Testability</a></td>
     </tr>
     <tr>
       <td>Wed, Sep 2</td>

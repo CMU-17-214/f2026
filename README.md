@@ -65,7 +65,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Fri, Sep 4</td>
-      <td><span class="rec">Lab 2</span> Testing, Testability, and Auditing a Generated Suite</td>
+      <td><span class="rec">Lab 2</span> <a href="https://github.com/CMU-17-214/f2026/blob/main/labs/lab02.md" target="_blank" rel="noopener">Testing, Testability, and Auditing a Generated Suite</a></td>
     </tr>
   </tbody>
   <tbody>

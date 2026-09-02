@@ -61,7 +61,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Wed, Sep 2</td>
-      <td>Test Design and Coverage</td>
+      <td><a href="https://github.com/CMU-17-214/f2026/blob/main/slides/04-test-design-and-coverage.pdf" target="_blank" rel="noopener">Test Design and Coverage</a></td>
     </tr>
     <tr>
       <td>Fri, Sep 4</td>

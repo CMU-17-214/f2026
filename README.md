@@ -92,12 +92,12 @@ The schedule below reflects our current plans, but is subject to change.
       <td>Communicating and Recording Designs</td>
     </tr>
     <tr>
-      <td>Wed, Sep 16</td>
-      <td>Design for Change</td>
+      <td>Tue, Sep 15</td>
+      <td><span class="assignment"><span class="chk">Assignment 2 Checkpoint due</span> Better Slack (v0.1)</span></td>
     </tr>
     <tr>
-      <td>Thu, Sep 17</td>
-      <td><span class="assignment"><span class="chk">Assignment 2 Checkpoint due</span> Better Slack (v0.1)</span></td>
+      <td>Wed, Sep 16</td>
+      <td>Design for Change</td>
     </tr>
     <tr>
       <td>Fri, Sep 18</td>

@@ -4,7 +4,7 @@
 
 This course teaches software design with coding agents. On assignments and labs, agent use is not just permitted, it is expected. You do not need to disclose or attribute individual lines, commits, or ideas to the agent. We assume everything in your repository was produced with an agent in the loop.
 
-What we grade is how you directed, verified, and controlled that work. The supervision deliverable in each assignment (plan, supervision log, reflection memo) is your disclosure. No further attribution is required.
+What we grade is how you directed, verified, and controlled that work. The supervision deliverable in each assignment (see the handout's deliverables; from Assignment 2 on, the planning documents you worked from plus your transcripts) is your disclosure. No further attribution is required.
 
 ## Tooling
 
@@ -16,7 +16,7 @@ Lab 1 includes a setup check verifying that your export path works. Please sort 
 
 ## Disclosure per submission
 
-Each assignment and lab submission states which tool(s) and model(s) you used. One or two lines is enough. The handout for each assignment or lab tells you where to put it.
+Your committed transcripts show which tool(s) and model(s) you used, so generally no separate disclosure is required. If a handout asks for one anyway, it says where to put it.
 
 ## Transcripts
 
@@ -27,13 +27,13 @@ Labs are the exception. Lab repositories are public forks, so you never commit o
 - Claude Code: run the provided export script (tools/export-transcripts.sh in your assignment repository) before your final commit. AI tools are constantly changing how things are done, sometimes in backward-incompatible ways. (Yes, we will see backward-compatibility more formally in this course). So, if you run into any issues running the script, let us know via email or Piazza and we will investigate.
 - Any other tool: you are responsible for exporting an equivalent transcript. Equivalent means complete, showing your prompts, the agent's responses, and the actions it took, in an order a reader can follow.
 
-Transcript content is not graded, but committing your transcripts is worth a small slice of each assignment (each handout's rubric will make this clear). We check for presence at the commit you link: present and non-empty earns these points, while missing or empty does not. Note that a fabricated transcript is an integrity violation, like fabricated evidence anywhere in this course. By the way: losing these points does not remove the requirement for transcript submission. Transcripts are the source for your curated supervision log, we spot-check them, and we will ask you to produce them regardless. Also, a supervision log that does not match its transcripts is an academic integrity violation, not just a grading deduction.
+Transcript content is never graded for polish, and your prompts and ideas are never scored. We do read transcripts, together with your planning documents and commit history, as the record of your process. Committing your transcripts is also worth a small presence slice in each rubric, checked at the commit you link. Losing those points does not remove the requirement. Transcripts sit behind your written process artifacts, we spot-check them, and we will ask you to produce them regardless. A fabricated transcript, or a process artifact that does not match its transcripts, is an academic integrity violation.
 
 ## Cost
 
 You are expected to pay for your own agent subscription. Many of you may already be doing so; in that case, you are welcome to keep using your existing subscriptions, assuming you can export your transcripts, of course. Since AI use is integral to this course, please make sure you have access to a tool ASAP.
 
-Budget roughly $100 per month (for example, Claude Max 5x). Free or lower-priced options may exist (for example, GitHub Copilot through the Student Developer Pack, or Gemini CLI's free tier), but you may find yourself running into token limits frequently. 
+Budget roughly $100 per month (for example, Claude Max 5x). Free or lower-priced options may exist (for example, GitHub Copilot through the Student Developer Pack, or Google AI Pro for one year), but you may find yourself running into token limits frequently.
 
 If cost is a barrier, contact the instructors in Week 1 and we will see what can be done. 
 

@@ -93,7 +93,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Tue, Sep 15</td>
-      <td><span class="assignment"><span class="chk">Assignment 2 Checkpoint due</span> Better Slack (v0.1)</span></td>
+      <td><span class="assignment"><span class="chk">Assignment 2 Checkpoint due</span> <a href="https://github.com/CMU-17-214/f2026/blob/main/assignments/hw2.md#the-checkpoint-specify-and-validate-first" target="_blank" rel="noopener">Better Slack (v0.1)</a></span></td>
     </tr>
     <tr>
       <td>Wed, Sep 16</td>
@@ -107,7 +107,7 @@ The schedule below reflects our current plans, but is subject to change.
   <tbody>
     <tr>
       <td>Mon, Sep 21</td>
-      <td><span class="assignment"><span class="hw">Assignment 2 due</span> Better Slack (v0.1)</span></td>
+      <td><span class="assignment"><span class="hw">Assignment 2 due</span> <a href="https://github.com/CMU-17-214/f2026/blob/main/assignments/hw2.md" target="_blank" rel="noopener">Better Slack (v0.1)</a></span></td>
     </tr>
     <tr>
       <td>Mon, Sep 21</td>

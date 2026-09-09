@@ -79,7 +79,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Wed, Sep 9</td>
-      <td>What Is a Software System's Design?</td>
+      <td><a href="https://github.com/CMU-17-214/f2026/blob/main/slides/05-what-is-design.pdf" target="_blank" rel="noopener">What Is a Software System's Design?</a></td>
     </tr>
     <tr>
       <td>Fri, Sep 11</td>

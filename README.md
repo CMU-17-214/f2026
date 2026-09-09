@@ -311,6 +311,7 @@ Instructors:
 
 TAs:
 - Harrison Green [harrisog]
+- Riya Elizabeth John [rjohn]
 - Alex Feies [afeies]
 - Alex Torres Vivaldo [atorresv]
 - David Hu [junningh]

@@ -101,7 +101,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Fri, Sep 18</td>
-      <td><span class="rec">Lab 4</span> Baby AWS Deploy</td>
+      <td><span class="rec">Lab 4</span> <a href="https://github.com/CMU-17-214/f2026/blob/main/labs/lab04.md" target="_blank" rel="noopener">Baby AWS Deploy</a></td>
     </tr>
   </tbody>
   <tbody>

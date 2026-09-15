@@ -28,6 +28,11 @@ additional functionality. It should only check the contract, such that it could
 be run against alternative implementations that satisfy the API + your
 specification. 
 
+All of this lives in the private GitHub repository we created for you,
+`f26-hw2-<andrewid>` in the CMU-17-214-Students organization. You should have
+an invitation from GitHub. If you cannot find the invitation,
+email us.
+
 ## The checkpoint: specify and validate first
 
 **Tuesday, September 15, 11:59 pm.** Commit `CAPABILITY.md` and a harness that

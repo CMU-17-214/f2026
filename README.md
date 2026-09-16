@@ -97,7 +97,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Wed, Sep 16</td>
-      <td>Design for Change</td>
+      <td><a href="https://github.com/CMU-17-214/f2026/blob/main/slides/07-design-for-change.pdf" target="_blank" rel="noopener">Design for Change</a></td>
     </tr>
     <tr>
       <td>Fri, Sep 18</td>

@@ -111,7 +111,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Mon, Sep 21</td>
-      <td>Modularity and Anti-Patterns</td>
+      <td><a href="https://github.com/CMU-17-214/f2026/blob/main/slides/08-modularity-and-anti-patterns.pdf" target="_blank" rel="noopener">Modularity and Anti-Patterns</a></td>
     </tr>
     <tr class="midterm">
       <td>Wed, Sep 23</td>

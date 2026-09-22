@@ -119,7 +119,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Fri, Sep 25</td>
-      <td><span class="rec">Lab 5</span> Anti-Pattern Critique of Generated Code</td>
+      <td><span class="rec">Lab 5</span> <a href="https://github.com/CMU-17-214/f2026/blob/main/labs/lab05.md" target="_blank" rel="noopener">Anti-Pattern Critique of Generated Code</a></td>
     </tr>
   </tbody>
   <tbody>

@@ -133,7 +133,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Wed, Sep 30</td>
-      <td><span class="assignment"><span class="chk">Assignment 3 Checkpoint due</span> Change and Reuse</span></td>
+      <td><span class="assignment"><span class="chk">Assignment 3 Checkpoint due</span> <a href="https://github.com/CMU-17-214/f2026/blob/main/assignments/hw3.md#deliverable-checkpoint-audit-your-code-and-design" target="_blank" rel="noopener">Two Roads</a></span></td>
     </tr>
     <tr>
       <td>Fri, Oct 2</td>
@@ -147,7 +147,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Wed, Oct 7</td>
-      <td><span class="assignment"><span class="hw">Assignment 3 due</span> Change and Reuse</span></td>
+      <td><span class="assignment"><span class="hw">Assignment 3 due</span> <a href="https://github.com/CMU-17-214/f2026/blob/main/assignments/hw3.md" target="_blank" rel="noopener">Two Roads</a></span></td>
     </tr>
     <tr>
       <td>Wed, Oct 7</td>

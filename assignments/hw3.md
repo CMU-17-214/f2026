@@ -24,7 +24,7 @@ also supporting version 2.
 
 Continue in your Assignment 2 repository, `f26-hw2-<andrewid>`. We have pushed
 `core-api-v2.md` to it, and in the coming days we will also push a client built
-from your `CAPABILITY.md` into `client/`, with a Canvas announcement when it is
+from your `CAPABILITY.md` into `ta-client/`, with a Canvas announcement when it is
 there. Before you pull either, commit (or stash) any work in progress. We only
 add new files, so the pull should not conflict with your work. (If git complains
 about divergent branches, `git pull --no-rebase` merges our commit into yours.
@@ -41,15 +41,17 @@ you said they should work.
 You can look at and run the client as much as you want:
 
 ```bash
-node client/client.mjs --base http://localhost:3001
+node ta-client/client.mjs --base http://localhost:3001
 ```
 
 ...but changing it would be silly because we have our own copy that we'll use in
 grading.
 
-We'll be checking that your system still supports version 1 with our version of
-this client. Supporting version 1 doesn't just mean "keep a particular test program happy", but
-it's a good start.
+We'll be checking that our copy of this client still works with your system. By
+"works" we mean the basic functionality.
+We are not going to look for weird edge cases here.
+
+If you have any issues with your client from the beginning, come talk to us!
 
 ## Deliverable (checkpoint): audit your code and design
 
@@ -159,8 +161,8 @@ Beyond that, keep the log accurate for the system you submit:
 
 Commit the following:
 
-1. **Your system**, supporting version 2, passing the version 1 client, and
-   runnable from the README.
+1. **Your system**, supporting version 2, still working with the version 1
+   client, and runnable from the README.
 2. **`AUDIT.md`**, as committed at the checkpoint, plus the addendum you add at
    the deadline.
 3. **`CAPABILITY.md`**, updated.
@@ -182,8 +184,8 @@ will adjudicate.
 
 * [ ] 22: Your system passes our hidden test suite, which exercises the core
   contract for version 1 callers and version 2 callers.
-* [ ] 6: The client passes, so the functionality you published in Assignment 2 still
-  works.
+* [ ] 6: Our client still works with your system, meaning the basic
+  functionality you published in Assignment 2.
 * [ ] 2: Your front end still runs, from your README.
 
 **Verification (25pt).**

@@ -125,7 +125,7 @@ The schedule below reflects our current plans, but is subject to change.
   <tbody>
     <tr>
       <td>Mon, Sep 28</td>
-      <td>Refactoring and Design Improvement</td>
+      <td><a href="https://github.com/CMU-17-214/f2026/blob/main/slides/09-refactoring.pdf" target="_blank" rel="noopener">Refactoring and Design Improvement</a></td>
     </tr>
     <tr>
       <td>Wed, Sep 30</td>

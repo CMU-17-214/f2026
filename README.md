@@ -137,7 +137,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Fri, Oct 2</td>
-      <td><span class="rec">Lab 6</span> API Contract Under Pressure</td>
+      <td><span class="rec">Lab 6</span> <a href="https://github.com/CMU-17-214/f2026/blob/main/labs/lab06.md" target="_blank" rel="noopener">API Contract Under Pressure</a></td>
     </tr>
   </tbody>
   <tbody>

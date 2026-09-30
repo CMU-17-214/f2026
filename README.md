@@ -129,7 +129,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Wed, Sep 30</td>
-      <td>Design Patterns and Tradeoffs</td>
+      <td><a href="https://github.com/CMU-17-214/f2026/blob/main/slides/10-design-patterns.pdf" target="_blank" rel="noopener">Design Patterns and Tradeoffs</a></td>
     </tr>
     <tr>
       <td>Wed, Sep 30</td>

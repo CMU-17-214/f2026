@@ -143,7 +143,7 @@ The schedule below reflects our current plans, but is subject to change.
   <tbody>
     <tr>
       <td>Mon, Oct 5</td>
-      <td>APIs, Libraries, and Frameworks</td>
+      <td><a href="https://github.com/CMU-17-214/f2026/blob/main/slides/11-apis-libraries-frameworks.pdf" target="_blank" rel="noopener">APIs, Libraries, and Frameworks</a></td>
     </tr>
     <tr>
       <td>Wed, Oct 7</td>
@@ -178,12 +178,12 @@ The schedule below reflects our current plans, but is subject to change.
       <td>Agent Architectures</td>
     </tr>
     <tr>
-      <td>Mon, Oct 19</td>
-      <td><span class="assignment"><span class="chk">Assignment 4 Checkpoint due</span> Refactor and Critique an Unfamiliar Codebase</span></td>
+      <td>Wed, Oct 21</td>
+      <td>Agent Supervision and Safety</td>
     </tr>
     <tr>
       <td>Wed, Oct 21</td>
-      <td>Agent Supervision and Safety</td>
+      <td><span class="assignment"><span class="chk">Assignment 4 Checkpoint due</span> Refactor and Critique an Unfamiliar Codebase</span></td>
     </tr>
     <tr>
       <td>Fri, Oct 23</td>

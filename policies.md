@@ -2,9 +2,9 @@
 
 ## The default: agent use is expected
 
-This course teaches software design with coding agents. On assignments and labs, agent use is not just permitted, it is expected. You do not need to disclose or attribute individual lines, commits, or ideas to the agent. We assume everything in your repository was produced with an agent in the loop.
+This course teaches software design with coding agents. On assignments and labs, agent use is expected. You do not need to disclose or attribute individual lines, commits, or ideas to the agent. We assume everything in your repository was produced with an agent in the loop.
 
-What we grade is how you directed, verified, and controlled that work. The supervision deliverable in each assignment (see the handout's deliverables; from Assignment 2 on, the planning documents you worked from plus your transcripts) is your disclosure. No further attribution is required.
+We grade how you directed, verified, and controlled that work. The supervision deliverable in each assignment (see the handout's deliverables; from Assignment 2 on, the planning documents you worked from plus your transcripts) is your disclosure. No further attribution is required.
 
 ## Tooling
 
@@ -27,7 +27,7 @@ Labs are the exception. Lab repositories are public forks, so you never commit o
 - Claude Code: run the provided export script (tools/export-transcripts.sh in your assignment repository) before your final commit. AI tools are constantly changing how things are done, sometimes in backward-incompatible ways. (Yes, we will see backward-compatibility more formally in this course). So, if you run into any issues running the script, let us know via email or Piazza and we will investigate.
 - Any other tool: you are responsible for exporting an equivalent transcript. Equivalent means complete, showing your prompts, the agent's responses, and the actions it took, in an order a reader can follow.
 
-Transcript content is never graded for polish, and your prompts and ideas are never scored. We do read transcripts, together with your planning documents and commit history, as the record of your process. Committing your transcripts also counts toward the process slice of each rubric, checked at the commit you link. Losing those points does not remove the requirement. Transcripts sit behind your written process artifacts, we spot-check them, and we will ask you to produce them regardless. A fabricated transcript, or a process artifact that does not match its transcripts, is an academic integrity violation.
+Transcript content is never graded for polish, and your prompts and ideas are never scored. We do read transcripts, together with your planning documents and commit history, as the record of your process. Committing your transcripts also counts toward the process slice of each rubric, checked at the commit you link. Losing those points does not remove the requirement. We will ask you to produce them regardless. A fabricated transcript, or a process artifact that does not match its transcripts, is an academic integrity violation.
 
 ## Cost
 
@@ -44,7 +44,7 @@ Plan your usage. Subscription plans have limits, and running out of tokens the n
 - Transcripts are read by course staff only, and only for grading and integrity purposes.
 - Nobody is grading your manners. Swear at your agent all you want. Or express frustration. Or thank it profusely. None of it matters. We read transcripts for your engineering judgment, not your mannerisms. (Politeness is a good policy, though.)
 - Your repository is private to you and the course staff, and is archived after the semester.
-- You may redact accidentally personal content from a transcript. Redacting engineering content makes it a missing transcript. If a spot-check finds engineering content redacted away, you are treated as not having produced that transcript.
+- You may redact accidentally personal content from a transcript. Redacting engineering content makes it a missing transcript. If we find engineering content redacted away, you are treated as not having produced that transcript.
 - Do not paste secrets (API keys, passwords, tokens) or other people's private data into a prompt. Transcripts, like git history, are forever. (We will formally visit this later in the course, but want to say it out loud early.)
 
 ## Where agents are not allowed
@@ -60,7 +60,7 @@ You have **five free late days** for the semester, no questions asked. They exis
 The rules:
 
 - Late days apply to *final assignment deadlines only*. Not checkpoints, not labs, not defense windows, and not Assignment 6.
-- At most 3 late days on any one assignment. This cap is absolute. A submission more than 3 days late earns a 0, whether or not you have free days left. The one exception is verifiably extenuating circumstances outside your control, communicated to the instructors before the deadline.
+- At most 3 late days on any one assignment. A submission more than 3 days late earns a 0, whether or not you have free days left. The one exception is verifiably extenuating circumstances outside your control, communicated to the instructors before the deadline.
 - Once your five free days are spent, each additional late day costs 10% of that assignment's grade (the 3-day cap still applies).
 - Counting is automatic: lateness runs from the 11:59pm deadline to your Canvas commit-link submission, and any fraction of a 24-hour block is one late day. You do not need to tell us when you are using late days.
 - Your defense window stays anchored to the published deadline, even if you submit late. (Phrased differently, submitting an assignment that was due Monday on Thursday means you only have until the following Monday for the verbal defense.)

@@ -151,11 +151,11 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Wed, Oct 7</td>
-      <td>Evolution, Drift, and Engineering Memory</td>
+      <td>Evolution, Drift, and Decision Archaeology</td>
     </tr>
     <tr>
       <td>Fri, Oct 9</td>
-      <td><span class="rec">Lab 7</span> Direct a Refactor</td>
+      <td><span class="rec">Lab 7</span> <a href="https://github.com/CMU-17-214/f2026/blob/main/labs/lab07.md" target="_blank" rel="noopener">Direct a Refactor</a></td>
     </tr>
   </tbody>
   <tbody>

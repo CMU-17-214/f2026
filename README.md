@@ -151,7 +151,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Wed, Oct 7</td>
-      <td>Evolution, Drift, and Decision Archaeology</td>
+      <td><a href="https://github.com/CMU-17-214/f2026/blob/main/slides/12-evolution-drift-memory.pdf" target="_blank" rel="noopener">Evolution, Drift, and Decision Archaeology</a></td>
     </tr>
     <tr>
       <td>Fri, Oct 9</td>
@@ -183,7 +183,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Wed, Oct 21</td>
-      <td><span class="assignment"><span class="chk">Assignment 4 Checkpoint due</span> Refactor and Critique an Unfamiliar Codebase</span></td>
+      <td><span class="assignment"><span class="chk">Assignment 4 Checkpoint due</span> Explore and Refactor an Unfamiliar Codebase</span></td>
     </tr>
     <tr>
       <td>Fri, Oct 23</td>
@@ -197,7 +197,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Wed, Oct 28</td>
-      <td><span class="assignment"><span class="hw">Assignment 4 due</span> Refactor and Critique an Unfamiliar Codebase</span></td>
+      <td><span class="assignment"><span class="hw">Assignment 4 due</span> Explore and Refactor an Unfamiliar Codebase</span></td>
     </tr>
     <tr>
       <td>Wed, Oct 28</td>
@@ -331,7 +331,7 @@ TAs:
 
 Evaluation will be based on the following components:
 
-- 50% for assignments. Six assignments spanning the course. Each assignment's grade includes a short spoken defense of one design decision, in office hours (graded for completeness; think of it as interview practice). Assignments 2 through 6 also include a checkpoint.
+- 50% for assignments. Six assignments spanning the course. Each assignment's grade includes a short spoken defense of one design decision, in office hours (graded for completeness unless the handout says otherwise; think of it as interview practice). Assignments 2 through 6 also include a checkpoint.
 - 30% for exams. Two midterms (7.5% each) and a final exam (15%).
 - 10% for labs. 13 weekly labs, graded for completeness at recitation. Your two lowest lab scores are dropped.
 - 10% for in-class quizzes and participation. You can expect short quizzes during lecture, graded for completeness (not correctness). Your two lowest quiz scores are dropped.

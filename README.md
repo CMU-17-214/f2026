@@ -183,7 +183,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Wed, Oct 21</td>
-      <td><span class="assignment"><span class="chk">Assignment 4 Checkpoint due</span> Explore and Refactor an Unfamiliar Codebase</span></td>
+      <td><span class="assignment"><span class="chk">Assignment 4 Checkpoint due</span> <a href="https://github.com/CMU-17-214/f2026/blob/main/assignments/hw4.md#a-decision-archaeology-due-at-the-checkpoint" target="_blank" rel="noopener">Explore and Refactor an Unfamiliar Codebase</a></span></td>
     </tr>
     <tr>
       <td>Fri, Oct 23</td>
@@ -197,7 +197,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Wed, Oct 28</td>
-      <td><span class="assignment"><span class="hw">Assignment 4 due</span> Explore and Refactor an Unfamiliar Codebase</span></td>
+      <td><span class="assignment"><span class="hw">Assignment 4 due</span> <a href="https://github.com/CMU-17-214/f2026/blob/main/assignments/hw4.md" target="_blank" rel="noopener">Explore and Refactor an Unfamiliar Codebase</a></span></td>
     </tr>
     <tr>
       <td>Wed, Oct 28</td>

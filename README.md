@@ -175,7 +175,7 @@ The schedule below reflects our current plans, but is subject to change.
   <tbody>
     <tr>
       <td>Mon, Oct 19</td>
-      <td>Agent Architectures</td>
+      <td><a href="https://github.com/CMU-17-214/f2026/blob/main/slides/13-agent-architectures.pdf" target="_blank" rel="noopener">Agent Architectures</a></td>
     </tr>
     <tr>
       <td>Wed, Oct 21</td>

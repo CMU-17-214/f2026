@@ -187,7 +187,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Fri, Oct 23</td>
-      <td><span class="rec">Lab 8</span> Supervise a Repo-Scale Task</td>
+      <td><span class="rec">Lab 8</span> <a href="https://github.com/CMU-17-214/f2026/blob/main/labs/lab08.md" target="_blank" rel="noopener">Supervise a Repo-Scale Task</a></td>
     </tr>
   </tbody>
   <tbody>

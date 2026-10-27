@@ -193,7 +193,7 @@ The schedule below reflects our current plans, but is subject to change.
   <tbody>
     <tr>
       <td>Mon, Oct 26</td>
-      <td>Software Architecture and Subsystem Design</td>
+      <td><a href="https://github.com/CMU-17-214/f2026/blob/main/slides/15-software-architecture.pdf" target="_blank" rel="noopener">Software Architecture and Subsystem Design</a></td>
     </tr>
     <tr>
       <td>Wed, Oct 28</td>

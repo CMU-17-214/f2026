@@ -205,7 +205,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Fri, Oct 30</td>
-      <td><span class="rec">Lab 9</span> Architecture Critique: Boundaries and Ownership</td>
+      <td><span class="rec">Lab 9</span> <a href="https://github.com/CMU-17-214/f2026/blob/main/labs/lab09.md" target="_blank" rel="noopener">Boundaries, State, and Copies</a></td>
     </tr>
   </tbody>
   <tbody>

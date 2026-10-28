@@ -201,7 +201,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Wed, Oct 28</td>
-      <td>Data Models at Scale</td>
+      <td><a href="https://github.com/CMU-17-214/f2026/blob/main/slides/16-data-models-at-scale.pdf" target="_blank" rel="noopener">Data Models at Scale</a></td>
     </tr>
     <tr>
       <td>Fri, Oct 30</td>

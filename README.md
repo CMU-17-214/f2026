@@ -223,7 +223,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Fri, Nov 6</td>
-      <td><span class="assignment"><span class="chk">Assignment 5 Checkpoint due</span> Scale What You Built</span></td>
+      <td><span class="assignment"><span class="chk">Assignment 5 Checkpoint due</span> <a href="https://github.com/CMU-17-214/f2026/blob/main/assignments/hw5.md#deliverable-checkpoint-what-replicas-break-and-where-you-start" target="_blank" rel="noopener">Scale What You Built</a></span></td>
     </tr>
   </tbody>
   <tbody>
@@ -243,7 +243,7 @@ The schedule below reflects our current plans, but is subject to change.
   <tbody>
     <tr>
       <td>Mon, Nov 16</td>
-      <td><span class="assignment"><span class="hw">Assignment 5 due</span> Scale What You Built</span></td>
+      <td><span class="assignment"><span class="hw">Assignment 5 due</span> <a href="https://github.com/CMU-17-214/f2026/blob/main/assignments/hw5.md" target="_blank" rel="noopener">Scale What You Built</a></span></td>
     </tr>
     <tr>
       <td>Mon, Nov 16</td>

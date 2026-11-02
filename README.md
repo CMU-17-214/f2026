@@ -211,7 +211,7 @@ The schedule below reflects our current plans, but is subject to change.
   <tbody>
     <tr>
       <td>Mon, Nov 2</td>
-      <td>Concurrency and Asynchrony</td>
+      <td><a href="https://github.com/CMU-17-214/f2026/blob/main/slides/17-concurrency.pdf" target="_blank" rel="noopener">Concurrency and Asynchrony</a></td>
     </tr>
     <tr class="midterm">
       <td>Wed, Nov 4</td>

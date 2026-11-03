@@ -219,7 +219,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Fri, Nov 6</td>
-      <td><span class="rec">Lab 10</span> Find the Race</td>
+      <td><span class="rec">Lab 10</span> <a href="https://github.com/CMU-17-214/f2026/blob/main/labs/lab10.md" target="_blank" rel="noopener">Find the Race</a></td>
     </tr>
     <tr>
       <td>Fri, Nov 6</td>

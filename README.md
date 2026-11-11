@@ -233,7 +233,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Wed, Nov 11</td>
-      <td>Containers and the Cloud</td>
+      <td><a href="https://github.com/CMU-17-214/f2026/blob/main/slides/19-containers-and-cloud.pdf" target="_blank" rel="noopener">Containers and the Cloud</a></td>
     </tr>
     <tr>
       <td>Fri, Nov 13</td>

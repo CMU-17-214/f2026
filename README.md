@@ -247,7 +247,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Mon, Nov 16</td>
-      <td>DevOps</td>
+      <td><a href="https://github.com/CMU-17-214/f2026/blob/main/slides/20-devops.pdf" target="_blank" rel="noopener">DevOps</a></td>
     </tr>
     <tr>
       <td>Wed, Nov 18</td>

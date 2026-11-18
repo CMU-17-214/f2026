@@ -251,7 +251,7 @@ The schedule below reflects our current plans, but is subject to change.
     </tr>
     <tr>
       <td>Wed, Nov 18</td>
-      <td>Verification in the Pipeline</td>
+      <td><a href="https://github.com/CMU-17-214/f2026/blob/main/slides/21-verification-pipeline.pdf" target="_blank" rel="noopener">Verification in the Pipeline</a></td>
     </tr>
     <tr>
       <td>Fri, Nov 20</td>

@@ -72,9 +72,10 @@ account, including telemetry you haven't copied out yet.
 Every pull request and every push to `main` should run your tests, at
 least one static gate (a linter, a type checker, or a static analyzer,
 chosen for a reason you record), a dependency audit, and a secret scan
-of your whole history with
-[gitleaks](https://github.com/gitleaks/gitleaks) 8.30.1. Pushes to
-`main` should then deploy.
+with [gitleaks](https://github.com/gitleaks/gitleaks) 8.30.1. Pushes to
+`main` should then deploy. The secret scan can cover only the new
+commits in each push or pull request, as long as your whole history has
+been scanned at least once.
 
 Your pipeline should fail on a commit that adds a secret or a
 dependency with a known critical vulnerability. If a secret was ever

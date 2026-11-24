@@ -296,8 +296,8 @@ The schedule below reflects our current plans, but is subject to change.
   </tbody>
   <tbody>
     <tr class="midterm">
-      <td>Date TBD</td>
-      <td>Final Exam (location TBD)</td>
+      <td>Fri, Dec 11, 1-4pm</td>
+      <td>Final Exam (HOA 160)</td>
     </tr>
   </tbody>
 </table>
